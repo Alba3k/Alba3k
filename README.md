@@ -1,8 +1,8 @@
 # Привет всем 👋, меня зовут Александр. <img align="right" src="https://komarev.com/ghpvc/?username=Alba3k"/>
-### Прывітанне ўсім 👋, мяне клічуць Аляксандр.
-### Привіт усім 👋, мене звуть Олександр.
-### Cześć wszystkim 👋, nazywam się Alexander.
-### Sveiki visi 👋, mano vardas Aleksandras.
+#### Прывітанне ўсім 👋, мяне клічуць Аляксандр.
+#### Привіт усім 👋, мене звуть Олександр.
+#### Cześć wszystkim 👋, nazywam się Alexander.
+#### Sveiki visi 👋, mano vardas Aleksandras.
 
 <a href="https://www.linkedin.com/in/alexander-by" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/alexander_babyna" target="_blank"><img title="Instagram" src="https://img.icons8.com/wired/34/000000/instagram-new.png"/></a>
