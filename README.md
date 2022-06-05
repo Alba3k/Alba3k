@@ -2,11 +2,8 @@
 
 
 <a href="https://www.linkedin.com/in/alexander-by" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
-
 <a href="https://www.instagram.com/alexander_babyna" target="_blank"><img title="Instagram" src="https://img.icons8.com/wired/34/000000/instagram-new.png"/></a>
-
 <a href="https://Alba3k.github.io" target="_blank"><img title="My blog" src="https://img.icons8.com/wired/30/000000/domain.png"/></a>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alba3k&show_icons=true&hide_rank=true"/>
 
 In short about me:
