@@ -21,16 +21,20 @@
 **С большим удовольствием постоянно изучаю и работаю с новыми технологиями, библиотеками и фреймворками. В настоящее время активно изучаю стэк
 WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADENA) и пр.**
 
+**C большим интересом поучаствую в проектах по автоматизации, разработке, внедрении и сопровождении на основании open-source ERP решений: ADempiere, Dolibarr, ERPNext и др.** 
+
 Технологии используемые мной в данный момент (***major technology stack***):
 
-* Backend: [Python](https://www.python.org/)
-* Frontend: [HTML5], [CSS3]
-* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)
-* Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com)
+* Backend: [Python](https://www.python.org/)(core).
+* Frontend: [HTML5], [CSS3].
+* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org).
+* Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com).
 * OS: [Linux UBUNTU](https://ubuntu.com), [Fedora](https://getfedora.org/ru/)
-* DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io)
-* Static Site Generators: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/)
-* ERP, Business-frameworks: [1C](https://1c.ru/)
+* DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io), [Google Dashboard], знаком с Redash, Metabase, Graphana.
+* Static Site Generators: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
+* ERP, Business-frameworks: [1C](https://1c.ru/), [ERPNext](https://erpnext.com/).
 
 * ...и много других (and others).
+
+
 
