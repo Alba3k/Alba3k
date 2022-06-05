@@ -28,7 +28,6 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
 
-```
 * **Backend**: **[Python](https://www.python.org/)(core)**.
 * **Frontend**: [HTML5], [CSS3].
 * **Databases**: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), **[SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)**, работа с запросами и построение запросов.
@@ -42,7 +41,6 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 * ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
 парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
 визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с pdf, ods, odt документами Relatorio.***.
-```
 
 ***P.P.S. английский на уровне хорошего понимания текстовой и аудиовизуальной информации. 
 Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
