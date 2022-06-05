@@ -15,20 +15,22 @@
 а также в качестве системного администратора и программиста.
 - В настоящее время индивидуальный предприниматель. Занимаюсь разработкой и внедрением ПО.  
 
-- **Открыт для вакансий и интересных проектов 24/7. Можете связаться со мной по любому удобному для Вас способом.😁**
+- 📫 **Открыт для вакансий и интересных проектов 24/7. Можете связаться со мной, любым удобным для Вас способом. 😁**
 
-
-
+Технологии используемые мной в данный момент:
 My major technology stack:
+
 * Backend: [Django](http://djangoproject.com), [Flask](https://flask.palletsprojects.com), [Express](http://expressjs.com)
+
 * Frontend: [Vue](https://v3.vuejs.org), [vuex](https://vuex.vuejs.org), [vuex-orm](https://vuex-orm.org), [storybook](http://storybook.js.org), [creevey](https://git.io/creevey)
+
 * Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [Mongo](https://www.mongodb.com), [Redis](https://redis.io)
+
 * Queues/Brokers: redis based queues, [RabbitMQ](https://www.rabbitmq.com)
+
 * Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com)
+
 * ...and others
-
-<a align="right" href="https://icons8.com" target="_blank">For icons thanks to Icons8</a>
-
 
 
 Here are some ideas to get you started:
@@ -38,6 +40,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
