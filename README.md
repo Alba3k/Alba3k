@@ -35,14 +35,14 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 * **ERP, Business-frameworks**: [1C](https://1c.ru/), **[ERPNext](https://erpnext.com/)**.
 * **Project documentation**: **[MKDocs](https://www.mkdocs.org)**, системы написания документации к проекту.
 
-* ...и много других (and others) на различном уровне владения ***работа с данными [Pandas](https://pandas.pydata.org), 
+* ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
 парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
 визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с pdf, ods, odt документами Relatorio.***.
 
 ***P.P.S. английский на уровне хорошего понимания текстовой и аудиовизуальной информации. 
 Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
-всегда готов оказать помощь колегам. Много работаю :hammer_and_pick:. 
-Не употребляю :do_not_litter:, не курю :no_smoking:***
+всегда готов оказать помощь колегам. Ответственно подхожу к выполнению поставленных задач. 
+Много работаю :hammer_and_pick:. Не употребляю :do_not_litter:, не курю :no_smoking:***
 
 
 
