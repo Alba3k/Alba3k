@@ -13,33 +13,20 @@
 предприятий. (1С ЗУП, 1С Производство, 1С Автотранспорт).
 - Опыт работы в строительстве, пищевой промышленности, металлобработке и торговле на позициях финасово-экономического профиля, 
 а также в качестве системного администратора и программиста.
-- В настоящее время индивидуальный предприниматель. Занимаюсь разработкой и внедрением ПО.  
+- 🔭 В настоящее время индивидуальный предприниматель. Занимаюсь разработкой и внедрением ПО.  
 
 - 📫 **Открыт для вакансий и интересных проектов 24/7. Можете связаться со мной, любым удобным для Вас способом. 😁**
 
 Технологии используемые мной в данный момент:
 My major technology stack:
 
-* Backend: [Django](http://djangoproject.com), [Flask](https://flask.palletsprojects.com), [Express](http://expressjs.com)
-
-* Frontend: [Vue](https://v3.vuejs.org), [vuex](https://vuex.vuejs.org), [vuex-orm](https://vuex-orm.org), [storybook](http://storybook.js.org), [creevey](https://git.io/creevey)
-
-* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [Mongo](https://www.mongodb.com), [Redis](https://redis.io)
-
-* Queues/Brokers: redis based queues, [RabbitMQ](https://www.rabbitmq.com)
-
+* Backend: [Python](https://www.python.org/)
+* Frontend: [HTML5], [CSS3]
+* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)
 * Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com)
+* OS: [Linux UBUNTU](https://ubuntu.com)
 
 * ...and others
+* ...и много других
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+** С большим удовольствием постоянно изучаю и работаю с новыми технологиями, библиотеками и фреймворками.
