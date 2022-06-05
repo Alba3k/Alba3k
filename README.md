@@ -6,7 +6,13 @@
 <a href="https://Alba3k.github.io" target="_blank"><img title="My blog" src="https://img.icons8.com/wired/30/000000/domain.png"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alba3k&show_icons=true&hide_rank=true"/>
 
-In short about me:
+Коротко обо мне:
+
+- Дипломированный специалист. Образование высшее Полоцкий государственный Университет.
+- Пройденные курсы по 1С разработке и внедрению.
+- Опыт работы в строительстве, пищевой промышленности, металлобработке и торговле на позициях финасово-экономического профиля, 
+а также в качестве системного администратора и программиста.  
+
 - I'm Senior Engineering Manager at [Corel Corporation](https://www.corel.com)
 - I graduated master's degree at [Bauman Moscow State University](https://bmstu.ru) in 2021
 - I'm engaged in projects separately from official job: [TG2WA](https://t.me/tgtowabot), [BMSTU Schedule](https://vk.com/bmstuschedule) (ru), [M4M](https://github.com/M4MController) and pack of closed projects
