@@ -30,7 +30,7 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 * Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org).
 * Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com).
 * OS: [Linux UBUNTU](https://ubuntu.com), [Fedora](https://getfedora.org/ru/)
-* DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io), [Google Dashboard], знаком с Redash, Metabase, Graphana.
+* DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io), Google Dashboard, знаком с Redash, Metabase, Graphana.
 * Static Site Generators: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
 * ERP, Business-frameworks: [1C](https://1c.ru/), [ERPNext](https://erpnext.com/).
 
