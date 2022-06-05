@@ -27,12 +27,13 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 * Backend: [Python](https://www.python.org/)(core).
 * Frontend: [HTML5], [CSS3].
-* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org).
+* Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org), работа с запросами и построение запросов.
 * Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com).
 * OS: [Linux UBUNTU](https://ubuntu.com), [Fedora](https://getfedora.org/ru/)
 * DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io), Google Dashboard, знаком с Redash, Metabase, Graphana.
 * Static Site Generators: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
 * ERP, Business-frameworks: [1C](https://1c.ru/), [ERPNext](https://erpnext.com/).
+* Project documentation: [MKDocs](https://www.mkdocs.org), системы написания документации к проекту.
 
 * ...и много других (and others).
 
