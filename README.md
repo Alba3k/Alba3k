@@ -23,7 +23,7 @@
 * Backend: [Python](https://www.python.org/)
 * Frontend: [HTML5], [CSS3]
 * Databases: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), [SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)
-* Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com)
+* Deploy: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com)
 * OS: [Linux UBUNTU](https://ubuntu.com), [Fedora](https://getfedora.org/ru/)
 * DASHBOARDS, WEBAPPS: [Streamlit](https://streamlit.io)
 * Static Site Generators: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/)
@@ -31,5 +31,5 @@
 
 * ...и много других (and others).
 
-**С большим удовольствием постоянно изучаю и работаю с новыми технологиями, библиотеками и фреймворками. В настоящее время активно изучаю стэк
+- **С большим удовольствием постоянно изучаю и работаю с новыми технологиями, библиотеками и фреймворками. В настоящее время активно изучаю стэк
 для WEB3, библиотеку (WEB3PY), blockchain(NEO, KADENA) и пр.
