@@ -32,16 +32,15 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 | ---------- | -------- |
 | IDE |  ![Sublime](https://img.shields.io/badge/-Sublime-purple?style=flat-square&logo=Sublime&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-blue?style=flat-square&logo=Eclipse&logoColor=white) |
 | Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-blue?style=flat-square&logo=Pythonanywhere&logoColor=white)  |
-| DevOps |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
+| DevOps and deploy |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white) 
+![[Ansible]](https://img.shields.io/badge/-Ansible-orange?style=flat-square&logo=ansible&logoColor=white)  |
 | Blockchain |  ![Web3Py](https://img.shields.io/badge/-WEB3PY-black?style=flat-square&logo=web3py&logoColor=green)  ![Kadena](https://img.shields.io/badge/-Kadena-black?style=flat-square&logo=kadena&logoColor=green)  ![LOOM](https://img.shields.io/badge/-LOOM-black?style=flat-square&logo=loom&logoColor=green) |
-| Backend and databases |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat-square&logo=mysql&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-green?style=flat-square&logo=sqlite3&logoColor=white) ![PonyORM](https://img.shields.io/badge/-PonyORM-blue?style=flat-square&logo=ponyorm&logoColor=white) |
+| Backend and databases |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat-square&logo=mysql&logoColor=black) ![SQLite3](https://img.shields.io/badge/-SQLite3-green?style=flat-square&logo=sqlite3&logoColor=black) ![PonyORM](https://img.shields.io/badge/-PonyORM-blue?style=flat-square&logo=ponyorm&logoColor=white) |
 | Project doc |  ![MKDocs](https://img.shields.io/badge/-MKDocs-blue?style=flat-square&logo=mkdocs&logoColor=white) |
+| Frontend | ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-square&logo=css3&logoColor=white) ![Jekyll](https://img.shields.io/badge/-Jekyll-orange?style=flat-square&logo=jekyll&logoColor=white) ![HUGO](https://img.shields.io/badge/-HUGO-orange?style=flat-square&logo=orange&logoColor=white) |
 
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
 
-* **Frontend**: [HTML5], [CSS3].
-* **Databases**: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), **[SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)**, работа с запросами и построение запросов.
-* **Deploy**: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com).
 * **OS**: **[Linux UBUNTU](https://ubuntu.com)**, [Fedora](https://getfedora.org/ru/)
 * **DASHBOARDS, WEBAPPS**: **[Streamlit](https://streamlit.io)**, Google Dashboard, знаком с Redash, Metabase, Graphana.
 * **Static Site Generators**: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
