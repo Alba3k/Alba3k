@@ -43,7 +43,7 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 * ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
 парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
-визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с изображениями[Pillow](https://pillow.readthedocs.io/en/stable/), работа с pdf, ods, odt документами Relatorio.***.
+визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с изображениями [Pillow](https://pillow.readthedocs.io/en/stable/), работа с pdf, ods, odt документами Relatorio.***.
 
 ***P.P.S. Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
 всегда готов оказать помощь колегам. Ответственно подхожу к выполнению поставленных задач. 
