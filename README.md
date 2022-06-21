@@ -30,7 +30,7 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 | Stack Type | Elements |
 | ---------- | -------- |
-| IDE |  ![Sublime](https://img.shields.io/badge/-Sublime-purple?style=flat-square&logo=visual-studio-code&logoColor=white)  |
+| IDE |  ![Sublime](https://img.shields.io/badge/-Sublime-purple?style=flat-square&logo=Sublime&logoColor=white)  |
 | Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Rancher Certified](https://img.shields.io/badge/-Rancher%20Certified-blue?style=flat-square&logo=rancher&logoColor=white)  |
 | DevOps |  ![Gitlab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-orange?style=flat-square&logo=gitlab&logoColor=white)  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
 | CDN |  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-yellow?style=flat-square&logo=gitlab&logoColor=orange)  |
