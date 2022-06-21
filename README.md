@@ -37,21 +37,14 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 | Backend and databases |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat-square&logo=mysql&logoColor=black) ![SQLite3](https://img.shields.io/badge/-SQLite3-green?style=flat-square&logo=sqlite3&logoColor=black) ![PonyORM](https://img.shields.io/badge/-PonyORM-blue?style=flat-square&logo=ponyorm&logoColor=white) |
 | Project doc |  ![MKDocs](https://img.shields.io/badge/-MKDocs-blue?style=flat-square&logo=mkdocs&logoColor=white) |
 | Frontend | ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-square&logo=css3&logoColor=white) ![Jekyll](https://img.shields.io/badge/-Jekyll-orange?style=flat-square&logo=jekyll&logoColor=white) ![HUGO](https://img.shields.io/badge/-HUGO-orange?style=flat-square&logo=hugo&logoColor=white) |
-| Operating Systems | ![Ubuntu](https://img.shields.io/badge/-UBUNTU-orange?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-orange?style=flat-square&logo=fedora&logoColor=white)
-
-## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
-
-* **OS**: **[Linux UBUNTU](https://ubuntu.com)**, [Fedora](https://getfedora.org/ru/)
-* **DASHBOARDS, WEBAPPS**: **[Streamlit](https://streamlit.io)**, Google Dashboard, знаком с Redash, Metabase, Graphana.
-* **Static Site Generators**: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
-* **ERP, Business-frameworks**: [1C](https://1c.ru/), **[ERPNext](https://erpnext.com/)**.
-
+| Operating Systems | ![Ubuntu](https://img.shields.io/badge/-UBUNTU-red?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-red?style=flat-square&logo=fedora&logoColor=white) |
+| Dashboards, webapps | ![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=flat-square&logo=streamlit&logoColor=white) ![Google dashboards](https://img.shields.io/badge/-GoogleDashboards-lightgrey?style=flat-square&logo=google&logoColor=white) |
+| ERP, business-frameworks | ![1C](https://img.shields.io/badge/-1C-green?style=flat-square&logo=1c&logoColor=white) ![ERPNext](https://img.shields.io/badge/-ERPNext-green?style=flat-square&logo=erpnext&logoColor=black) |
 
 * ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
 парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
-визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с pdf, ods, odt документами Relatorio.***.
+визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с изображениями[Pillow](https://pillow.readthedocs.io/en/stable/), работа с pdf, ods, odt документами Relatorio.***.
 
-***P.P.S. английский на уровне хорошего понимания текстовой и аудиовизуальной информации. 
-Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
+***P.P.S. Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
 всегда готов оказать помощь колегам. Ответственно подхожу к выполнению поставленных задач. 
 Много работаю :hammer_and_pick:. Не употребляю :do_not_litter:, не курю :no_smoking:***
