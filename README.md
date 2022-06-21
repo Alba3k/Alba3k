@@ -35,6 +35,7 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 | DevOps |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
 | Blockchain |  ![Web3Py](https://img.shields.io/badge/-WEB3PY-black?style=flat-square&logo=web3py&logoColor=green)  ![Kadena](https://img.shields.io/badge/-Kadena-black?style=flat-square&logo=kadena&logoColor=green)  ![LOOM](https://img.shields.io/badge/-LOOM-black?style=flat-square&logo=loom&logoColor=green) |
 | Backend |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Goa Design framework (also maintainer)](https://img.shields.io/badge/-Goa%20Design%20framework%20(also%20maintainer)-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
+| Project doc |  ![MKDocs](https://www.mkdocs.org)(https://img.shields.io/badge/-MKDocs-blue?style=flat-square&logo=mkdocs&logoColor=white) |
 
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
 
