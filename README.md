@@ -26,6 +26,18 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 **🏭C большим интересом поучаствую в проектах по автоматизации, разработке, внедрении и сопровождении на основании open-source ERP решений: ADempiere, Dolibarr, ERPNext и др. Интересует также проекты по спортивной :soccer: аналитике. А также многие другие области.** 
 
+## Preferred Tech Stack
+
+| Stack Type | Elements |
+| ---------- | -------- |
+| IDE |  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat-square&logo=visual-studio-code&logoColor=white)  |
+| Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Rancher Certified](https://img.shields.io/badge/-Rancher%20Certified-blue?style=flat-square&logo=rancher&logoColor=white)  |
+| DevOps |  ![Gitlab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-orange?style=flat-square&logo=gitlab&logoColor=white)  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
+| CDN |  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-yellow?style=flat-square&logo=gitlab&logoColor=orange)  |
+| Blockchain |  ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=ethereum&logoColor=green)  ![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Ganache](https://img.shields.io/badge/-Ganache-black?style=flat-square&logo=ethereum&logoColor=green)  ![Waffle](https://img.shields.io/badge/-Waffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum&logoColor=green)|
+| Backend |  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)  ![Goa Design framework (also maintainer)](https://img.shields.io/badge/-Goa%20Design%20framework%20(also%20maintainer)-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
+| Frontend |  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  |
+
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
 
 * **Backend**: **[Python](https://www.python.org/)(core)**.
