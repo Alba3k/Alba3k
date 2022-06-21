@@ -26,14 +26,14 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 
 **🏭C большим интересом поучаствую в проектах по автоматизации, разработке, внедрении и сопровождении на основании open-source ERP решений: ADempiere, Dolibarr, ERPNext и др. Интересует также проекты по спортивной :soccer: аналитике. А также многие другие области.** 
 
-## My Tech Stack
+## Technology stack
 
 | Stack Type | Elements |
 | ---------- | -------- |
 | IDE |  ![Sublime](https://img.shields.io/badge/-Sublime-purple?style=flat-square&logo=Sublime&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-blue?style=flat-square&logo=Eclipse&logoColor=white) |
 | Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-blue?style=flat-square&logo=Pythonanywhere&logoColor=white)  |
 | DevOps |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
-| Blockchain |  ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=ethereum&logoColor=green)  ![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Ganache](https://img.shields.io/badge/-Ganache-black?style=flat-square&logo=ethereum&logoColor=green)  ![Waffle](https://img.shields.io/badge/-Waffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum&logoColor=green)|
+| Blockchain |  ![Web3Py](https://img.shields.io/badge/-WEB3PY-black?style=flat-square&logo=blockchain&logoColor=green)  ![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Ganache](https://img.shields.io/badge/-Ganache-black?style=flat-square&logo=ethereum&logoColor=green)  ![Waffle](https://img.shields.io/badge/-Waffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum&logoColor=green)|
 | Backend |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Goa Design framework (also maintainer)](https://img.shields.io/badge/-Goa%20Design%20framework%20(also%20maintainer)-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
 
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
