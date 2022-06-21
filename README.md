@@ -34,12 +34,11 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 | Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-blue?style=flat-square&logo=Pythonanywhere&logoColor=white)  |
 | DevOps |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
 | Blockchain |  ![Web3Py](https://img.shields.io/badge/-WEB3PY-black?style=flat-square&logo=web3py&logoColor=green)  ![Kadena](https://img.shields.io/badge/-Kadena-black?style=flat-square&logo=kadena&logoColor=green)  ![LOOM](https://img.shields.io/badge/-LOOM-black?style=flat-square&logo=loom&logoColor=green) |
-| Backend |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Goa Design framework (also maintainer)](https://img.shields.io/badge/-Goa%20Design%20framework%20(also%20maintainer)-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
+| Backend |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat-square&logo=mysql&logoColor=white)  |
 | Project doc |  ![MKDocs](https://img.shields.io/badge/-MKDocs-blue?style=flat-square&logo=mkdocs&logoColor=white) |
 
 ## Технологии используемые мной в данный момент (***:computer: major technology stack :computer:***):
 
-* **Backend**: **[Python](https://www.python.org/)(core)**.
 * **Frontend**: [HTML5], [CSS3].
 * **Databases**: [MySQL](https://www.mysql.com), [Postgres](https://www.postgresql.org), **[SQLite3](https://www.sqlite.org), [PonyORM](https://ponyorm.org)**, работа с запросами и построение запросов.
 * **Deploy**: [Docker](https://www.docker.com), [Ansible](https://www.ansible.com), [GitHub](https://github.com).
@@ -47,7 +46,7 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 * **DASHBOARDS, WEBAPPS**: **[Streamlit](https://streamlit.io)**, Google Dashboard, знаком с Redash, Metabase, Graphana.
 * **Static Site Generators**: [Jekyll](https://jekyllrb.com/), [HUGO](https://gohugo.io/).
 * **ERP, Business-frameworks**: [1C](https://1c.ru/), **[ERPNext](https://erpnext.com/)**.
-* **Project documentation**: **[MKDocs](https://www.mkdocs.org)**, системы написания документации к проекту.
+
 
 * ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
 парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
