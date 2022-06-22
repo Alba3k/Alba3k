@@ -1,6 +1,7 @@
 # Привет всем 👋, меня зовут Александр. <img align="right" src="https://komarev.com/ghpvc/?username=Alba3k"/>
 #### Прывітанне ўсім 👋, мяне клічуць Аляксандр.
 #### Привіт усім 👋, мене звуть Олександр.
+#### Hello 👋, my name is Alexander.
 #### Cześć wszystkim 👋, nazywam się Alexander.
 #### Sveiki visi 👋, mano vardas Aleksandras.
 
