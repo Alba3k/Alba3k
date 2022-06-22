@@ -40,10 +40,8 @@ WEB3, в частности библиотеку (WEB3PY), blockchain(NEO, KADEN
 | **Operating Systems** | ![Ubuntu](https://img.shields.io/badge/-UBUNTU-red?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-red?style=flat-square&logo=fedora&logoColor=white) |
 | **Dashboards, webapps** | ![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=flat-square&logo=streamlit&logoColor=white) ![Google dashboards](https://img.shields.io/badge/-GoogleDashboards-lightgrey?style=flat-square&logo=google&logoColor=white) |
 | **ERP, business-frameworks** | ![1C](https://img.shields.io/badge/-1C-green?style=flat-square&logo=1c&logoColor=white) ![ERPNext](https://img.shields.io/badge/-ERPNext-green?style=flat-square&logo=erpnext&logoColor=black) |
+| **Python library** | ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-blue?style=flat-square&logo=scrapy&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-blue?style=flat-square&logo=BeautifulSoup&logoColor=white) ![Sweetwiz](https://img.shields.io/badge/-Sweetwiz-blue?style=flat-square&logo=sweetwiz&logoColor=white) ![Pillow](https://img.shields.io/badge/-Pillow-blue?style=flat-square&logo=pillow&logoColor=white) ![Relatorio](https://img.shields.io/badge/-Relatorio-blue?style=flat-square&logo=relatorio&logoColor=white)
 
-* ...и много других (and others) на различном уровне владения: ***работа с данными [Pandas](https://pandas.pydata.org), 
-парсинг и скрапинг [Scrapy](https://scrapy.org), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), 
-визуализация [Sweetwiz](https://pypi.org/project/sweetviz/), работа с изображениями [Pillow](https://pillow.readthedocs.io/en/stable/), работа с pdf, ods, odt документами Relatorio.***.
 
 ***P.P.S. Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
 всегда готов оказать помощь колегам. Ответственно подхожу к выполнению поставленных задач. 
