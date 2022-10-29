@@ -13,19 +13,17 @@
 ***about me:***
 
 - :classical_building: Specialist in economics and finance. Higher education Polotsk State University.
-- 📌Пройдены курсы по 1С разработке и внедрению. Опыт работы по разработке, сопровождению и внедрению различных конфигураций 1С на нескольких 
-предприятий. (1С ЗУП, 1С Производство, 1С Автотранспорт).
-- 📌Опыт работы в строительстве, пищевой промышленности, металлобработке и торговле на позициях финасово-экономического профиля, 
-а также в качестве системного администратора и программиста.
-- 📌В настоящее время индивидуальный предприниматель. Занимаюсь разработкой и внедрением ПО. Скрапинг, парсинг, обработка данных, построение dashboards,
-написание скриптов для автоматизации бизнесс-процессов, построение отчетов, программная работа с XLS, DOC, PDF итп.
 
-- **📌С большим удовольствием постоянно изучаю и работаю с новыми технологиями, библиотеками и фреймворками. В настоящее время активно изучаю стэк
-WEB3, в частности библиотеку (WEB3PY), blockchain (NEO) и пр.**
+- 📌 Experience in the development, maintenance and implementation of various configurations of the 1C system. 
+Automation of production, payroll, transport.
 
-- **🏭C большим интересом поучаствую в проектах по автоматизации, разработке, внедрении и сопровождении на основании open-source ERP решений: ADempiere, Dolibarr, ERPNext и др.** 
+- 📌 Currently a sole trader. I am engaged in the development and implementation of software. Scraping, parsing, data processing, building dashboards,
+writing scripts to automate business processes, building reports.
 
-- **📫Открыт для вакансий и интересных проектов 24/7. Можете связаться со мной, любым удобным для Вас способом.**
+
+- 🏭 With great interest I will participate in projects on automation, development, implementation and maintenance based on open-source ERP solutions: ADempiere, Dolibarr, ERPNext, etc. 
+
+- **📫 Open for vacancies and interesting projects 24/7. You can contact me in any way convenient for you.**
 
 ## Technology stack
 
@@ -44,6 +42,4 @@ WEB3, в частности библиотеку (WEB3PY), blockchain (NEO) и �
 | **Python library** | ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-blue?style=flat-square&logo=scrapy&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-blue?style=flat-square&logo=BeautifulSoup&logoColor=white) ![Sweetwiz](https://img.shields.io/badge/-Sweetwiz-blue?style=flat-square&logo=sweetwiz&logoColor=white) ![Pillow](https://img.shields.io/badge/-Pillow-blue?style=flat-square&logo=pillow&logoColor=white) ![Relatorio](https://img.shields.io/badge/-Relatorio-blue?style=flat-square&logo=relatorio&logoColor=white)
 
 
-***P.P.S. Активный, доброжелательный, коммуникабельный, хорошо коммуницирую с другими членами команды, 
-всегда готов оказать помощь колегам. Ответственно подхожу к выполнению поставленных задач. 
-Много работаю :hammer_and_pick:.***
+***P.P.S. Active, friendly, sociable, I communicate well with other team members, I am always ready to help my colleagues. Responsible approach to the implementation of tasks. :hammer_and_pick:.***
