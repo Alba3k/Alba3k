@@ -15,7 +15,7 @@
 - 📌 Experience in the development, maintenance and implementation of various configurations of the 1C system. 
 Automation of production, payroll, transport.
 
-- 📌 Currently a sole trader. I am engaged in the development and implementation of software. Scraping, parsing, data processing, building dashboards,
+- 📌 I am engaged in the development and implementation of software. Scraping, parsing, data processing, building dashboards,
 writing scripts to automate business processes, building reports.
 
 
