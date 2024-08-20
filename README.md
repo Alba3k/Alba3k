@@ -8,7 +8,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alba3k&show_icons=true&hide_rank=true"/>
 
 ## Technology stack
-
 | Stack Type | Elements |
 | ---------- | -------- |
 | **Backend and databases** |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=black) ![SQLite3](https://img.shields.io/badge/-SQLite3-blue?style=flat-square&logo=sqlite3&logoColor=black) ![PonyORM](https://img.shields.io/badge/-PonyORM-blue?style=flat-square&logo=ponyorm&logoColor=white) ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=Django&logoColor=white)
