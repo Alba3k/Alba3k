@@ -5,19 +5,7 @@
 #### Cześć wszystkim 👋, nazywam się Alexander.
 #### Sveiki visi 👋, mano vardas Aleksandras.
 
-<a href="https://www.linkedin.com/in/alexander-by" target="_blank"><img title="LinkedIn" src="https://img.icons8.com/wired/34/000000/linkedin.png"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alba3k&show_icons=true&hide_rank=true"/>
-
-***about me:***
-
-- :classical_building: Specialist in economics and finance. Higher education Polotsk State University.
-
-- 📌 Experience in the development, maintenance and implementation of various configurations of the 1C system. 
-Automation of production, payroll, transport.
-
-- 📌 I am engaged in the development and implementation of software. Scraping, parsing, data processing, building dashboards,
-writing scripts to automate business processes, building reports.
-
 
 - 🏭 With great interest I will participate in projects on automation, development, implementation and maintenance based on open-source ERP solutions: ADempiere, Dolibarr, ERPNext, etc. 
 
