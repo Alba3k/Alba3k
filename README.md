@@ -7,10 +7,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alba3k&show_icons=true&hide_rank=true"/>
 
-- 🏭 With great interest I will participate in projects on automation, development, implementation and maintenance based on open-source ERP solutions: ADempiere, Dolibarr, ERPNext, etc. 
-
-- **📫 Open for vacancies and interesting projects 24/7. You can contact me in any way convenient for you.**
-
 ## Technology stack
 
 | Stack Type | Elements |
