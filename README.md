@@ -24,18 +24,36 @@
 
 ## 📈 Current Focus
 
-- Building modular quant strategies for crypto markets  
-- Designing signal engines with real-time execution  
-- Exploring DeFi automation and smart contract integration  
-- Visualizing strategy performance with Plotly and dashboards
+- Building modular quant strategies for crypto and traditional markets
+- Designing signal engines with real-time execution and adaptive logic
+- Developing DeFi automation tools for liquidity mining and yield optimization
+- Integrating smart contracts with Python-based trading workflows
+- Creating backtesting environments for strategy validation
+- Streaming market data pipelines with low-latency processing
+- Visualizing strategy performance with Plotly, Dash, and Streamlit
+- Automating portfolio rebalancing and risk management
+- Exploring cross-chain analytics and on-chain data extraction
+- Deploying trading bots with Docker, FastAPI, and Telegram integration
 
 ---
 
 ## 🧪 Projects
 
-- `quant-strategies`: EMA + RSI strategy with CCXT integration  
-- `crypto-signal-bot`: Telegram alerts for live trading signals  
+- `quant-strategies`: EMA + RSI strategy with CCXT integration
+- `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
+- `backtest-lab`: Lightweight backtesting framework for Python strategies
+- `chainwatch`: On-chain analytics tool for Ethereum and EVM-compatible chains
+- `alpha-engine`: Signal generation engine using TA-Lib and pandas-ta
+- `dex-sniper`: Automated trading bot for decentralized exchanges (Uniswap, PancakeSwap)
+- `portfolio-balancer`: Dynamic portfolio rebalancing tool with risk metrics
+- `oracle-bridge`: Python interface for Chainlink and custom data feeds
+- `streamflow`: Real-time market data streamer using WebSockets and FastAPI
+- `vault-manager`: Yield farming optimizer with strategy switching logic
+- `trading-dashboard`: Interactive dashboard for live strategy monitoring (Plotly + Dash)
+- `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler
+- `wallet-analyzer`: Python tool for tracking wallet performance and token flows
+- `arb-hunter`: Arbitrage scanner across centralized and decentralized exchanges
 
 ---
 
