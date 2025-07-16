@@ -59,7 +59,35 @@
 
 ## 🛠️ Tools I Love
 
-`Python` • `FastAPI` • `Web3` • `Plotly` • `Backtrader` • `CCXT` • `Docker` • `GitHub Actions`
+### 🐍 Python Ecosystem
+`Python` • `NumPy` • `Pandas` • `pandas-ta` • `TA-Lib` • `SciPy` • `Statsmodels` • `Matplotlib` • `Plotly` • `Seaborn` • `Dash` • `Streamlit` • `FastAPI` • `Flask` • `Django` • `DRF` • `SQLAlchemy` • `PonyORM` • `PyTelegramBotAPI` • `Web3.py` • `ccxt` • `Backtrader` • `Alpaca` • `yfinance` • `requests` • `BeautifulSoup` • `Scrapy` • `Pillow` • `Relatorio` • `Jupyter` • `IPython` • `asyncio` • `schedule` • `apscheduler` • `pytest` • `pydantic` • `tqdm`
+
+### 📊 Data & Visualization
+`Plotly` • `Dash` • `Matplotlib` • `Seaborn` • `Streamlit` • `Bokeh` • `Altair`
+
+### ⚙️ Automation & Bots
+`Telegram Bot API` • `schedule` • `apscheduler` • `cron` • `watchdog` • `pyautogui`
+
+### 🧪 Quant & Trading
+`Backtrader` • `ccxt` • `TA-Lib` • `pandas-ta` • `Alpaca` • `QuantConnect` • `zipline` • `bt` • `vectorbt`
+
+### 🔗 Blockchain & Smart Contracts
+`Web3.py` • `Ethers.js` • `Solidity` • `Chainlink` • `Brownie` • `Hardhat` • `Infura` • `Alchemy`
+
+### 🧱 Backend & APIs
+`FastAPI` • `Flask` • `Django` • `DRF` • `SQLAlchemy` • `Pydantic` • `Uvicorn` • `Gunicorn`
+
+### 🖥️ Frontend & UI
+`HTML5` • `CSS3` • `JavaScript` • `Backbone.js` • `Jekyll` • `HUGO` • `Bootstrap`
+
+### 🐘 Databases
+`MariaDB` • `PostgreSQL` • `SQLite` • `MongoDB` • `Redis`
+
+### 🧪 DevOps & Deployment
+`Docker` • `Heroku` • `PythonAnywhere` • `GitHub Actions` • `Nginx` • `Supervisor`
+
+### 🧠 IDEs & Tools
+`VSCode` • `JupyterLab` • `Sublime Text` • `Eclipse` • `Git` • `GitHub CLI`
 
 ---
 
