@@ -1,24 +1,48 @@
-# Привет всем 👋, меня зовут Александр. <img align="right" src="https://komarev.com/ghpvc/?username=Alba3k"/>
-#### Прывітанне ўсім 👋, мяне клічуць Аляксандр.
-#### Привіт усім 👋, мене звуть Олександр.
-#### Hello 👋, my name is Alexander.
-#### Cześć wszystkim 👋, nazywam się Alexander.
-#### Sveiki visi 👋, mano vardas Aleksandras.
+<img align="right" src="https://komarev.com/ghpvc/?username=Alba3k"/>
 
-## Technology stack
-| Stack Type | Elements |
-| ---------- | -------- |
-| **Backend and databases** |  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=black) ![SQLite3](https://img.shields.io/badge/-SQLite3-blue?style=flat-square&logo=sqlite3&logoColor=black) ![PonyORM](https://img.shields.io/badge/-PonyORM-blue?style=flat-square&logo=ponyorm&logoColor=white) ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=Django&logoColor=white)
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-orange?style=flat-square&logo=css3&logoColor=white) ![Jekyll](https://img.shields.io/badge/-Jekyll-orange?style=flat-square&logo=jekyll&logoColor=white) ![HUGO](https://img.shields.io/badge/-HUGO-orange?style=flat-square&logo=hugo&logoColor=white) |
-| **IDE** |  ![Sublime](https://img.shields.io/badge/-Sublime-blueviolet?style=flat-square&logo=Sublime&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?style=flat-square&logo=Eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/-VisualStudioCode-blueviolet?style=flat-square&logo=vscode&logoColor=white) |
-| **DevOps and deploy** |  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-orange?style=flat-square&logo=github&logoColor=white) ![[Ansible]](https://img.shields.io/badge/-Ansible-orange?style=flat-square&logo=ansible&logoColor=white)  |
-| **Cloud** |  ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-purple?style=flat-square&logo=Pythonanywhere&logoColor=white)  |
-| **Blockchain** |  ![Web3Py](https://img.shields.io/badge/-WEB3PY-black?style=flat-square&logo=web3py&logoColor=green)  ![LOOM](https://img.shields.io/badge/-LOOM-black?style=flat-square&logo=loom&logoColor=green) |
-| **Project doc** |  ![MKDocs](https://img.shields.io/badge/-MKDocs-blue?style=flat-square&logo=mkdocs&logoColor=white) |
-| **Operating Systems** | ![Ubuntu](https://img.shields.io/badge/-UBUNTU-red?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/-Fedora-red?style=flat-square&logo=fedora&logoColor=white) |
-| **Dashboards, webapps** | ![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=flat-square&logo=streamlit&logoColor=white) ![Google dashboards](https://img.shields.io/badge/-GoogleDashboards-lightgrey?style=flat-square&logo=google&logoColor=white) |
-| **ERP, business-frameworks** | ![1C](https://img.shields.io/badge/-1C-green?style=flat-square&logo=1c&logoColor=white) ![ERPNext](https://img.shields.io/badge/-ERPNext-green?style=flat-square&logo=erpnext&logoColor=black) |
-| **Python library** | ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-blue?style=flat-square&logo=scrapy&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-blue?style=flat-square&logo=BeautifulSoup&logoColor=white) ![Sweetwiz](https://img.shields.io/badge/-Sweetwiz-blue?style=flat-square&logo=sweetwiz&logoColor=white) ![Pillow](https://img.shields.io/badge/-Pillow-blue?style=flat-square&logo=pillow&logoColor=white) ![Relatorio](https://img.shields.io/badge/-Relatorio-blue?style=flat-square&logo=relatorio&logoColor=white)
+# 👋 Welcome to my digital workspace
 
+🔍 I build algorithmic trading systems, crypto signal engines, and blockchain-native automation tools.  
+🧠 Passionate about quant strategies, DeFi protocols, and real-time data pipelines.
 
-***P.P.S. Active, friendly, sociable, I communicate well with other team members, I am always ready to help my colleagues. Responsible approach to the implementation of tasks. :hammer_and_pick:.***
+---
+
+## 🧰 Tech Stack
+
+| Category | Tools & Frameworks |
+|---------|---------------------|
+| **Trading & Quant** | ![CCXT](https://img.shields.io/badge/-CCXT-black?style=flat-square&logo=ccxt&logoColor=white) ![Backtrader](https://img.shields.io/badge/-Backtrader-black?style=flat-square&logo=backtrader&logoColor=white) ![Alpaca](https://img.shields.io/badge/-Alpaca-black?style=flat-square&logo=alpaca&logoColor=white) ![TA-Lib](https://img.shields.io/badge/-TA--Lib-black?style=flat-square&logo=talib&logoColor=white) ![Pandas TA](https://img.shields.io/badge/-PandasTA-black?style=flat-square&logo=pandas&logoColor=white) |
+| **Blockchain & DeFi** | ![Web3.py](https://img.shields.io/badge/-Web3.py-blue?style=flat-square&logo=ethereum&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-blue?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white) ![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=flat-square&logo=chainlink&logoColor=white) |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django&logoColor=white) |
+| **Data & Visualization** | ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-blue?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white) |
+| **Bots & Automation** | ![Telegram Bot](https://img.shields.io/badge/-TelegramBot-blue?style=flat-square&logo=telegram&logoColor=white) ![Scheduler](https://img.shields.io/badge/-Scheduler-blue?style=flat-square&logo=cron&logoColor=white) |
+| **Databases** | ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white) |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-purple?style=flat-square&logo=githubactions&logoColor=white) |
+| **IDE & Tools** | ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-blueviolet?style=flat-square&logo=jupyter&logoColor=white) ![Sublime](https://img.shields.io/badge/-Sublime-blueviolet?style=flat-square&logo=sublimetext&logoColor=white) |
+
+---
+
+## 📈 Current Focus
+
+- Building modular quant strategies for crypto markets  
+- Designing signal engines with real-time execution  
+- Exploring DeFi automation and smart contract integration  
+- Visualizing strategy performance with Plotly and dashboards
+
+---
+
+## 🧪 Projects
+
+- `quant-strategies`: EMA + RSI strategy with CCXT integration  
+- `crypto-signal-bot`: Telegram alerts for live trading signals  
+- `defi-monitor`: Smart contract event tracker for DeFi protocols
+
+---
+
+## 🛠️ Tools I Love
+
+`Python` • `FastAPI` • `Web3` • `Plotly` • `Backtrader` • `CCXT` • `Docker` • `GitHub Actions`
+
+---
+
+## 🧭 Let's build the future of trading — one strategy at a time.
