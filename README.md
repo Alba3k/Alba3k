@@ -41,7 +41,7 @@
 
 
 
-[quant-strategies](https://github.com/Alba3k/quant-strategies)
+- `[quant-strategies](https://github.com/Alba3k/quant-strategies)`
 
 - `quant-strategies`: EMA + RSI strategy with CCXT integration
 - `crypto-signal-bot`: Telegram alerts for live trading signals
