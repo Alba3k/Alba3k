@@ -12,128 +12,14 @@
 | Category | Tools & Frameworks |
 |---------|---------------------|
 | **Trading & Quant** | ![CCXT](https://img.shields.io/badge/-CCXT-black?style=flat-square&logo=ccxt&logoColor=white) ![Backtrader](https://img.shields.io/badge/-Backtrader-black?style=flat-square&logo=backtrader&logoColor=white) ![Alpaca](https://img.shields.io/badge/-Alpaca-black?style=flat-square&logo=alpaca&logoColor=white) ![TA-Lib](https://img.shields.io/badge/-TA--Lib-black?style=flat-square&logo=talib&logoColor=white) ![Pandas TA](https://img.shields.io/badge/-PandasTA-black?style=flat-square&logo=pandas&logoColor=white) |
-| **Blockchain & DeFi** | ![Web3.py](https://img.shields.io/badge/-Web3.py-blue?style=flat-square&logo=ethereum&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-blue?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white) ![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=flat-square&logo=chainlink&logoColor=white) |
-| **Backend & APIs** | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django&logoColor=white) |
+| **Blockchain & DeFi** | ![Web3.py](https://img.shields.io/badge/-Web3.py-blue?style=flat-square&logo=ethereum&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-blue?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white) ![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=flat-square&logo=chainlink&logoColor=white) 
+![Brownie (https://img.shields.io/badge/-Brownie-chocolate?style=flat-square&logo=ethereum&logoColor=white) ![Infura](https://img.shields.io/badge/-Infura-orange?style=flat-square&logo=ethereum&logoColor=white)|
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-blue?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=flask&logoColor=white) |
 | **Data & Visualization** | ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-blue?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white) |
 | **Bots & Automation** | ![Telegram Bot](https://img.shields.io/badge/-TelegramBot-blue?style=flat-square&logo=telegram&logoColor=white) ![Scheduler](https://img.shields.io/badge/-Scheduler-blue?style=flat-square&logo=cron&logoColor=white) |
 | **Databases** | ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white) |
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-purple?style=flat-square&logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-purple?style=flat-square&logo=githubactions&logoColor=white) |
 | **IDE & Tools** | ![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-blueviolet?style=flat-square&logo=jupyter&logoColor=white) ![Sublime](https://img.shields.io/badge/-Sublime-blueviolet?style=flat-square&logo=sublimetext&logoColor=white) |
-
-# 🧰 Technology Stack
-
-A curated overview of tools, libraries, and frameworks used across my trading, blockchain, and automation projects.  
-Built primarily in Python, with integrations in Go, Ruby, and modern DevOps tooling.
-
----
-
-## 📈 Trading & Quant
-
-Used for strategy development, signal generation, and backtesting.
-
-![CCXT](https://img.shields.io/badge/-CCXT-black?style=flat-square&logo=ccxt&logoColor=white)  
-![Backtrader](https://img.shields.io/badge/-Backtrader-darkgreen?style=flat-square&logo=backtrader&logoColor=white)  
-![Alpaca](https://img.shields.io/badge/-Alpaca-gray?style=flat-square&logo=alpaca&logoColor=white)  
-![TA-Lib](https://img.shields.io/badge/-TA--Lib-darkblue?style=flat-square&logo=talib&logoColor=white)  
-![Pandas TA](https://img.shields.io/badge/-PandasTA-darkred?style=flat-square&logo=pandas&logoColor=white)  
-![yfinance](https://img.shields.io/badge/-yfinance-darkorange?style=flat-square&logo=yahoo&logoColor=white)  
-![vectorbt](https://img.shields.io/badge/-vectorbt-darkcyan?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🔗 Blockchain & DeFi
-
-Used for smart contract interaction, on-chain analytics, and DeFi automation.
-
-![Web3.py](https://img.shields.io/badge/-Web3.py-blue?style=flat-square&logo=ethereum&logoColor=white)  
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-indigo?style=flat-square&logo=ethereum&logoColor=white)  
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity&logoColor=white)  
-![Chainlink](https://img.shields.io/badge/-Chainlink-blue?style=flat-square&logo=chainlink&logoColor=white)  
-![Brownie](https://img.shields.io/badge/-Brownie-chocolate?style=flat-square&logo=ethereum&logoColor=white)  
-![Infura](https://img.shields.io/badge/-Infura-orange?style=flat-square&logo=ethereum&logoColor=white)
-
----
-
-## ⚙️ Backend & APIs
-
-Used for building REST/GraphQL APIs, bot interfaces, and strategy services.
-
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=flat-square&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-gray?style=flat-square&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=white)
-
----
-
-## 📊 Data & Visualization
-
-Used for plotting, dashboards, and interactive strategy analysis.
-
-![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-lightblue?style=flat-square&logo=numpy&logoColor=white)  
-![Plotly](https://img.shields.io/badge/-Plotly-purple?style=flat-square&logo=plotly&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-darkblue?style=flat-square&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-cadetblue?style=flat-square&logo=python&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-lightgray?style=flat-square&logo=streamlit&logoColor=white)  
-![Dash](https://img.shields.io/badge/-Dash-darkslategray?style=flat-square&logo=plotly&logoColor=white)
-
----
-
-## 🤖 Bots & Automation
-
-Used for scheduling, messaging, and bot orchestration.
-
-![Telegram Bot](https://img.shields.io/badge/-TelegramBot-skyblue?style=flat-square&logo=telegram&logoColor=white)  
-![Scheduler](https://img.shields.io/badge/-Scheduler-darkorange?style=flat-square&logo=cron&logoColor=white)  
-![APScheduler](https://img.shields.io/badge/-APScheduler-darkred?style=flat-square&logo=python&logoColor=white)  
-![watchdog](https://img.shields.io/badge/-Watchdog-darkgray?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 🧠 Machine Learning
-
-Used for signal modeling, strategy ranking, and predictive analytics.
-
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/-XGBoost-darkgreen?style=flat-square&logo=xgboost&logoColor=white)  
-![LightGBM](https://img.shields.io/badge/-LightGBM-lightgreen?style=flat-square&logo=lightgbm&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-Used for storing signals, metrics, and historical data.
-
-![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-darkblue?style=flat-square&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-navy?style=flat-square&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-## ☁️ Cloud & DevOps
-
-Used for deployment, orchestration, and CI/CD.
-
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  
-![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-darkred?style=flat-square&logo=ansible&logoColor=white)  
-![Nginx](https://img.shields.io/badge/-Nginx-darkgreen?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 🧠 IDE & Tools
-
-Used for development, debugging, and notebooks.
-
-![VSCode](https://img.shields.io/badge/-VSCode-blueviolet?style=flat-square&logo=visualstudiocode&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)  
-![Sublime](https://img.shields.io/badge/-Sublime-darkgray?style=flat-square&logo=sublimetext&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-darkgreen?style=flat-square&logo=jetbrains&logoColor=white)
 
 ---
 
