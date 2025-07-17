@@ -39,7 +39,9 @@
 
 ## 🧪 Projects
 
-- `quant-strategies`: a collection of basic strategies using numpy and pandas
+#### 📈 Trading & Quant Strategies
+- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas, with CCXT integration
+
 - `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
 - `backtest-lab`: Lightweight backtesting framework for Python strategies
@@ -69,59 +71,6 @@
 - `gas-tracker-ui`: Web dashboard for monitoring Ethereum gas prices and transaction costs
 - `chain-events-viewer`: Displays smart contract events in real time using WebSocket listeners
 - `trade-journal`: Personal trade journal app with tagging, notes, and performance tracking
-
-<h3>📈 Trading & Quant Strategies</h3>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr style="background-color: #f2f2f2;">
-      <th style="text-align: left; padding: 8px;">🔗 Project</th>
-      <th style="text-align: left; padding: 8px;">💬 Description</th>
-      <th style="text-align: left; padding: 8px;">⚙️ Tech Stack</th>
-      <th style="text-align: left; padding: 8px;">🏷️ Tags</th>
-      <th style="text-align: left; padding: 8px;">📊 Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #eafaf1;">
-      <td style="padding: 8px;"><a href="https://github.com/Alba3k/quant-strategies"><strong>quant-strategies</strong></a></td>
-      <td style="padding: 8px;">Modular strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) with CCXT integration</td>
-      <td style="padding: 8px;">Python, pandas-ta</td>
-      <td style="padding: 8px;">trading, signals, crypto</td>
-      <td style="padding: 8px;">🟢 Active</td>
-    </tr>
-    <tr style="background-color: #fffbe6;">
-      <td style="padding: 8px;"><a href="https://github.com/Alba3k/alpha-engine"><strong>alpha-engine</strong></a></td>
-      <td style="padding: 8px;">Signal generator using TA-Lib and pandas-ta</td>
-      <td style="padding: 8px;">Python</td>
-      <td style="padding: 8px;">indicators, automation</td>
-      <td style="padding: 8px;">🧪 Prototype</td>
-    </tr>
-    <tr style="background-color: #eafaf1;">
-      <td style="padding: 8px;"><a href="https://github.com/Alba3k/backtest-lab"><strong>backtest-lab</strong></a></td>
-      <td style="padding: 8px;">Lightweight backtesting framework for strategy validation</td>
-      <td style="padding: 8px;">Python</td>
-      <td style="padding: 8px;">quant, testing</td>
-      <td style="padding: 8px;">✅ Completed</td>
-    </tr>
-    <tr style="background-color: #fdecea;">
-      <td style="padding: 8px;"><a href="https://github.com/Alba3k/trade-tuner"><strong>trade-tuner</strong></a></td>
-      <td style="padding: 8px;">Strategy parameter optimizer using grid search and genetic algorithms</td>
-      <td style="padding: 8px;">Python</td>
-      <td style="padding: 8px;">optimization, ML</td>
-      <td style="padding: 8px;">📌 Idea</td>
-    </tr>
-    <tr style="background-color: #fffbe6;">
-      <td style="padding: 8px;"><a href="https://github.com/Alba3k/metaquant"><strong>metaquant</strong></a></td>
-      <td style="padding: 8px;">Strategy evaluator based on adaptability and market regime fit</td>
-      <td style="padding: 8px;">Python</td>
-      <td style="padding: 8px;">analytics, scoring</td>
-      <td style="padding: 8px;">🧪 Prototype</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><em>📌 Tip: Replace the URLs with actual links to your GitHub repositories or folders.</em></p>
 
 ---
 
