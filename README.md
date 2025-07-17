@@ -39,11 +39,7 @@
 
 ## 🧪 Projects
 
-
-
-- `[quant-strategies](https://github.com/Alba3k/quant-strategies)`
-
-- `quant-strategies`: EMA + RSI strategy with CCXT integration
+- ######`quant-strategies`: a collection of basic strategies using numpy and pandas
 - `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
 - `backtest-lab`: Lightweight backtesting framework for Python strategies
