@@ -54,6 +54,21 @@
 - `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler
 - `wallet-analyzer`: Python tool for tracking wallet performance and token flows
 - `arb-hunter`: Arbitrage scanner across centralized and decentralized exchanges
+- `signal-logger`: Lightweight logging system for storing strategy signals in SQLite or CSV
+- `bot-scheduler`: Task scheduler for running trading bots at specific intervals using apscheduler
+- `trade-simulator`: Simulates trade execution and PnL tracking based on strategy signals
+- `risk-analyzer`: Calculates drawdown, Sharpe ratio, and volatility metrics for strategy performance
+- `telegram-manager`: Admin bot for managing multiple Telegram trading channels and alerts
+- `wallet-syn`c: Syncs wallet balances and token holdings across multiple chains using web3.py
+- `price-alert-bot`: Sends alerts when price crosses key levels or indicators trigger thresholds
+- `strategy-tester-ui`: Streamlit-based interface for uploading OHLCV data and testing strategies interactively
+- `api-aggregator`: Combines data from multiple exchanges (Binance, KuCoin, Bybit) into unified feed
+- `token-scanner`: Scans new token listings and liquidity events on DEXes using public APIs
+- `ml-signal-lab`: Uses scikit-learn or XGBoost to train models on historical indicators
+- `nft-monitor`: Tracks NFT floor prices and sales volume across marketplaces
+- `gas-tracker-ui`: Web dashboard for monitoring Ethereum gas prices and transaction costs
+- `chain-events-viewer`: Displays smart contract events in real time using WebSocket listeners
+- `trade-journal`: Personal trade journal app with tagging, notes, and performance tracking
 
 ---
 
