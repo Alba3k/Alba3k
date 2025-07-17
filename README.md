@@ -2,7 +2,7 @@
 
 # 👋 Welcome to my digital workspace
 
-🔍 I build algorithmic trading systems, crypto signal engines, and blockchain-native automation tools.<br>  
+🔍 I build algorithmic trading systems, crypto signal engines, and blockchain-native automation tools.<br>
 📈 Passionate about quant strategies, DeFi protocols, and real-time data pipelines.<br> 
 ✉️ If you have a commercial proposal for me, you can write to me by e-mail.
 
