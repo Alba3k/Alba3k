@@ -39,7 +39,7 @@
 
 ## 🧪 Projects
 
-###### `quant-strategies`: ###### a collection of basic strategies using numpy and pandas
+- `quant-strategies`: a collection of basic strategies using numpy and pandas
 - `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
 - `backtest-lab`: Lightweight backtesting framework for Python strategies
