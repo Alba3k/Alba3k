@@ -40,16 +40,16 @@
 ## 🧪 Projects
 
 #### 📈 Trading & Quant Strategies
-- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas - 🟢 Active
-- `crypto-signal-bot`: Telegram alerts for live trading signals
-- `defi-monitor`: Smart contract event tracker for DeFi protocols
-- `backtest-lab`: Lightweight backtesting framework for Python strategies
-- `chainwatch`: On-chain analytics tool for Ethereum and EVM-compatible chains
-- `alpha-engine`: Signal generation engine using TA-Lib and pandas-ta
-- `dex-sniper`: Automated trading bot for decentralized exchanges (Uniswap, PancakeSwap)
-- `portfolio-balancer`: Dynamic portfolio rebalancing tool with risk metrics
-- `oracle-bridge`: Python interface for Chainlink and custom data feeds
-- `streamflow`: Real-time market data streamer using WebSockets and FastAPI
+- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas - 🟢 active
+- `crypto-signal-bot`: telegram alerts for live trading signals
+- `defi-monitor`: smart contract event tracker for DeFi protocols
+- `backtest-lab`: lightweight backtesting framework for Python strategies
+- `chainwatch`: on-chain analytics tool for Ethereum and EVM-compatible chains
+- `alpha-engine`: signal generation engine using TA-Lib and pandas-ta
+- `dex-sniper`: automated trading bot for decentralized exchanges (Uniswap, PancakeSwap)
+- `portfolio-balancer`: dynamic portfolio rebalancing tool with risk metrics
+- `oracle-bridge`: python interface for Chainlink and custom data feeds
+- `streamflow`: real-time market data streamer using WebSockets and FastAPI
 - `vault-manager`: Yield farming optimizer with strategy switching logic
 - `trading-dashboard`: Interactive dashboard for live strategy monitoring (Plotly + Dash)
 - `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler
