@@ -87,52 +87,37 @@
 - `AlphaBoard`: Ruby dashboard consuming Python APIs for strategy metrics — 📌 idea
 
 🌐 APIs & Integration
-api-aggregator: combines data from Binance, KuCoin, Bybit into unified feed — ✅ completed
-
-quant-api-gateway: FastAPI gateway exposing strategy signals and bot status — 🧪 prototype
-
-py-chainlink-bridge: Python interface for Chainlink node management — 🧪 prototype
-
-multi-lang-bot-core: Python bot framework with Go plug-ins for execution speed — 📌 idea
-
-py-devops-deployer: deployment manager for bots and dashboards using Docker & Ansible — ✅ completed
+- `api-aggregator`: combines data from Binance, KuCoin, Bybit into unified feed — ✅ completed
+- `quant-api-gateway`: FastAPI gateway exposing strategy signals and bot status — 🧪 prototype
+- `py-chainlink-bridge`: Python interface for Chainlink node management — 🧪 prototype
+- `multi-lang-bot-core`: Python bot framework with Go plug-ins for execution speed — 📌 idea
+- `py-devops-deployer`: deployment manager for bots and dashboards using Docker & Ansible — ✅ completed
 
 💼 Wallets & Monitoring
-wallet-analyzer: tracks wallet performance and token flows — 🧪 prototype
-
-ruby-wallet-tracker: Ruby CLI tool for wallet tracking via Python backend — 📌 idea
-
-LedgerLens: Rails app for visualizing wallet activity and DeFi positions — 📌 idea
+- `wallet-analyzer`: tracks wallet performance and token flows — 🧪 prototype
+- `ruby-wallet-tracker`: Ruby CLI tool for wallet tracking via Python backend — 📌 idea
+- `LedgerLens`: Rails app for visualizing wallet activity and DeFi positions — 📌 idea
 
 💎 Ruby-Based Projects
-ruby-defi-dashboard: Rails frontend for Python-powered DeFi metrics — 📌 idea
-
-TradeWhisper: Ruby bot sending curated signals to Telegram/Discord — 📌 idea
+- `ruby-defi-dashboard`: Rails frontend for Python-powered DeFi metrics — 📌 idea
+- `TradeWhisper`: Ruby bot sending curated signals to Telegram/Discord — 📌 idea
 
 ⚙️ Go-Based Projects
-GoTraderX: high-speed trading bot core in Go with Python strategy plugins — 📌 idea
-
-BlockWatchGo: Go service for monitoring blockchain events — 📌 idea
-
-GoFlow: market data ingestion pipeline in Go streaming to Python — 📌 idea
-
-go-streamer: real-time market data streamer in Go — 📌 idea
-
-go-risk-engine: Go-based risk engine calculating exposure and VaR — 📌 idea
+- `GoTraderX`: high-speed trading bot core in Go with Python strategy plugins — 📌 idea
+- `BlockWatchGo`: Go service for monitoring blockchain events — 📌 idea
+- `GoFlow`: market data ingestion pipeline in Go streaming to Python — 📌 idea
+- `go-streamer`: real-time market data streamer in Go — 📌 idea
+- `go-risk-engine`: Go-based risk engine calculating exposure and VaR — 📌 idea
 
 🧪 Mixed & Experimental
-SentimentSynth: NLP + technical indicators for hybrid alpha signals — 📌 idea
+- `SentimentSynth`: NLP + technical indicators for hybrid alpha signals — 📌 idea
+- `MetaQuant`: strategy meta-evaluator ranking adaptability and regime fit — 📌 idea
+- `QuantVerse`: modular universe of trading strategies with plug-and-play architecture — 🧪 prototype
+- `VaultPilot`: yield optimizer rotating between DeFi protocols — 📌 idea
+- `AlphaForge`: drag-and-drop strategy builder with backtesting engine — 📌 idea
+- `SignalSmith`: multi-indicator signal generator with logic trees — 📌 idea
 
-MetaQuant: strategy meta-evaluator ranking adaptability and regime fit — 📌 idea
-
-QuantVerse: modular universe of trading strategies with plug-and-play architecture — 🧪 prototype
-
-VaultPilot: yield optimizer rotating between DeFi protocols — 📌 idea
-
-AlphaForge: drag-and-drop strategy builder with backtesting engine — 📌 idea
-
-SignalSmith: multi-indicator signal generator with logic trees — 📌 idea
-
+---
 
 ## 🛠️ Tools I Love
 
