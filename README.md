@@ -40,7 +40,7 @@
 ## 🧪 Projects
 
 #### 📈 Trading & Quant Strategies
-- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas, with CCXT integration
+- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas, with CCXT integration.
 
 - `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
