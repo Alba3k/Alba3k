@@ -38,44 +38,8 @@
 ---
 
 ## 🧪 Projects
-
 #### 📈 Trading & Quant Strategies
-- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas - 🟢 active
-- `crypto-signal-bot`: telegram alerts for live trading signals
-- `defi-monitor`: smart contract event tracker for DeFi protocols
-- `backtest-lab`: lightweight backtesting framework for Python strategies
-- `chainwatch`: on-chain analytics tool for Ethereum and EVM-compatible chains
-- `alpha-engine`: signal generation engine using TA-Lib and pandas-ta
-- `dex-sniper`: automated trading bot for decentralized exchanges (Uniswap, PancakeSwap)
-- `portfolio-balancer`: dynamic portfolio rebalancing tool with risk metrics
-- `oracle-bridge`: python interface for Chainlink and custom data feeds
-- `streamflow`: real-time market data streamer using WebSockets and FastAPI
-- `vault-manager`: Yield farming optimizer with strategy switching logic
-- `trading-dashboard`: Interactive dashboard for live strategy monitoring (Plotly + Dash)
-- `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler
-- `wallet-analyzer`: Python tool for tracking wallet performance and token flows
-- `arb-hunter`: Arbitrage scanner across centralized and decentralized exchanges
-- `signal-logger`: Lightweight logging system for storing strategy signals in SQLite or CSV
-- `bot-scheduler`: Task scheduler for running trading bots at specific intervals using apscheduler
-- `trade-simulator`: Simulates trade execution and PnL tracking based on strategy signals
-- `risk-analyzer`: Calculates drawdown, Sharpe ratio, and volatility metrics for strategy performance
-- `telegram-manager`: Admin bot for managing multiple Telegram trading channels and alerts
-- `wallet-syn`c: Syncs wallet balances and token holdings across multiple chains using web3.py
-- `price-alert-bot`: Sends alerts when price crosses key levels or indicators trigger thresholds
-- `strategy-tester-ui`: Streamlit-based interface for uploading OHLCV data and testing strategies interactively
-- `api-aggregator`: Combines data from multiple exchanges (Binance, KuCoin, Bybit) into unified feed
-- `token-scanner`: Scans new token listings and liquidity events on DEXes using public APIs
-- `ml-signal-lab`: Uses scikit-learn or XGBoost to train models on historical indicators
-- `nft-monitor`: Tracks NFT floor prices and sales volume across marketplaces
-- `gas-tracker-ui`: Web dashboard for monitoring Ethereum gas prices and transaction costs
-- `chain-events-viewer`: Displays smart contract events in real time using WebSocket listeners
-- `trade-journal`: Personal trade journal app with tagging, notes, and performance tracking
-
----
-
-## Projects
-#### 📈 Trading & Quant Strategies
-- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) using numpy and pandas — 🟢 active
+- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) — 🟢 active
 - `alpha-engine`: signal generation engine using TA-Lib and pandas-ta — 🧪 prototype
 - `backtest-lab`: lightweight backtesting framework for Python strategies — ✅ completed
 - `trade-tuner`: strategy parameter optimizer using grid search and genetic algorithms — 📌 idea
@@ -90,61 +54,37 @@
 - `trade-journal`: personal trade journal app with tagging, notes, and performance tracking — 📌 idea
 
 🤖 Bots & Automation
-crypto-signal-bot: telegram alerts for live trading signals — 🟢 active
-
-bot-orchestrator: manages multiple trading bots across exchanges with health checks — 🧪 prototype
-
-bot-scheduler: task scheduler for running trading bots using apscheduler — ✅ completed
-
-telegram-manager: admin bot for managing multiple Telegram channels and alerts — 🧪 prototype
-
-price-alert-bot: sends alerts when price crosses key levels or indicators trigger thresholds — 🟢 active
-
-signal-logger: lightweight logging system for storing strategy signals in SQLite or CSV — ✅ completed
-
-wallet-sync: syncs wallet balances and token holdings across multiple chains — 📌 idea
-
-sentiment-signalizer: combines Twitter/X sentiment with technical indicators — 🧪 prototype
-
-strategy-recommender: CLI/web app that suggests strategies based on market conditions — 📌 idea
-
-bot-bazaar: marketplace for trading bot templates and strategy modules — 📌 idea
+- `crypto-signal-bot`: telegram alerts for live trading signals — 🟢 active
+- `bot-orchestrator`: manages multiple trading bots across exchanges with health checks — 🧪 prototype
+- `bot-scheduler`: task scheduler for running trading bots using apscheduler — ✅ completed
+- `telegram-manager`: admin bot for managing multiple Telegram channels and alerts — 🧪 prototype
+- `price-alert-bot`: sends alerts when price crosses key levels or indicators trigger thresholds — 🟢 active
+- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV — ✅ completed
+- `wallet-sync`: syncs wallet balances and token holdings across multiple chains — 📌 idea
+- `sentiment-signalizer`: combines Twitter/X sentiment with technical indicators — 🧪 prototype
+- `strategy-recommender`: CLI/web app that suggests strategies based on market conditions — 📌 idea
+- `bot-bazaar`: marketplace for trading bot templates and strategy modules — 📌 idea
 
 🔗 Blockchain & DeFi
-defi-monitor: smart contract event tracker for DeFi protocols — 🟢 active
-
-chainwatch: on-chain analytics tool for Ethereum and EVM-compatible chains — 🧪 prototype
-
-oracle-bridge: Python interface for Chainlink and custom data feeds — 🧪 prototype
-
-vault-manager: yield farming optimizer with strategy switching logic — 📌 idea
-
-gas-optimizer: Ethereum gas fee estimator and transaction scheduler — ✅ completed
-
-chain-metrics-collector: collects on-chain metrics like TVL, gas, token flows — 🧪 prototype
-
-cross-chain-monitor: monitors token transfers across Ethereum, BSC, Polygon — 📌 idea
-
-chain-events-viewer: displays smart contract events in real time — 📌 idea
-
-nft-monitor: tracks NFT floor prices and sales volume across marketplaces — 📌 idea
+- `defi-monitor`: smart contract event tracker for DeFi protocols — 🟢 active
+- `chainwatch`: on-chain analytics tool for Ethereum and EVM-compatible chains — 🧪 prototype
+- `oracle-bridg`e: Python interface for Chainlink and custom data feeds — 🧪 prototype
+- `vault-manager`: yield farming optimizer with strategy switching logic — 📌 idea
+- `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler — ✅ completed
+- `chain-metrics-collector`: collects on-chain metrics like TVL, gas, token flows — 🧪 prototype
+- `cross-chain-monitor`: monitors token transfers across Ethereum, BSC, Polygon — 📌 idea
+- `chain-events-viewer`: displays smart contract events in real time — 📌 idea
+- `nft-monitor`: tracks NFT floor prices and sales volume across marketplaces — 📌 idea
 
 📊 Visualization & Dashboards
-trading-dashboard: interactive dashboard for live strategy monitoring (Plotly + Dash) — 🟢 active
-
-strategy-tester-ui: Streamlit-based interface for uploading OHLCV data and testing strategies — ✅ completed
-
-gas-tracker-ui: web dashboard for monitoring Ethereum gas prices — 📌 idea
-
-data-dock: unified data lake for OHLCV, on-chain metrics, and sentiment feeds — 🧪 prototype
-
-streamflow: real-time market data streamer using WebSockets and FastAPI — 🧪 prototype
-
-chaincanvas: visualizes blockchain activity as generative art — 📌 idea
-
-StreamScope: WebSocket-based market data visualizer with anomaly detection — 📌 idea
-
-AlphaBoard: Ruby dashboard consuming Python APIs for strategy metrics — 📌 idea
+- `trading-dashboard`: interactive dashboard for live strategy monitoring (Plotly + Dash) — 🟢 active
+- `strategy-tester-ui`: Streamlit-based interface for uploading OHLCV data and testing strategies — ✅ completed
+- `gas-tracker-ui`: web dashboard for monitoring Ethereum gas prices — 📌 idea
+- `data-dock`: unified data lake for OHLCV, on-chain metrics, and sentiment feeds — 🧪 prototype
+- `streamflow`: real-time market data streamer using WebSockets and FastAPI — 🧪 prototype
+- `chaincanvas`: visualizes blockchain activity as generative art — 📌 idea
+- `StreamScope`: WebSocket-based market data visualizer with anomaly detection — 📌 idea
+- `AlphaBoard`: Ruby dashboard consuming Python APIs for strategy metrics — 📌 idea
 
 🌐 APIs & Integration
 api-aggregator: combines data from Binance, KuCoin, Bybit into unified feed — ✅ completed
