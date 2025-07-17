@@ -39,6 +39,7 @@
 
 ## 🧪 Projects
 
+- `[quant-strategies](https://github.com/Alba3k/project-name)`
 - `quant-strategies`: EMA + RSI strategy with CCXT integration
 - `crypto-signal-bot`: Telegram alerts for live trading signals
 - `defi-monitor`: Smart contract event tracker for DeFi protocols
