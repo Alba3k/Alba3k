@@ -3,7 +3,8 @@
 # 👋 Welcome to my digital workspace
 
 🔍 I build algorithmic trading systems, crypto signal engines, and blockchain-native automation tools.  
-🧠 Passionate about quant strategies, DeFi protocols, and real-time data pipelines.
+:chart_with_upwards_trend: Passionate about quant strategies, DeFi protocols, and real-time data pipelines.
+:incoming_envelope: If you have a commercial proposal for me, you can write to me by e-mail.
 
 ---
 
