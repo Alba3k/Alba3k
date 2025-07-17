@@ -70,6 +70,13 @@
 - `chain-events-viewer`: Displays smart contract events in real time using WebSocket listeners
 - `trade-journal`: Personal trade journal app with tagging, notes, and performance tracking
 
+## 🔍 Status Legend
+
+- 🟢 Active — actively developed or in use
+- 🧪 Prototype — functional but experimental
+- 📌 Idea — planned or conceptual
+- ✅ Completed — stable and production-ready
+
 ---
 
 ## 🛠️ Tools I Love
