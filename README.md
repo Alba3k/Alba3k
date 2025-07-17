@@ -40,82 +40,82 @@
 ## 🧪 Projects
 #### 📈 Trading & Quant Strategies
 - `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) — 🟢 active
-- `alpha-engine`: signal generation engine using TA-Lib and pandas-ta — 🧪 prototype
-- `backtest-lab`: lightweight backtesting framework for Python strategies — ✅ completed
-- `trade-tuner`: strategy parameter optimizer using grid search and genetic algorithms — 📌 idea
-- `metaquant`: strategy evaluator based on adaptability and market regime fit — 🧪 prototype
-- `dex-sniper`: automated trading bot for decentralized exchanges (Uniswap, PancakeSwap) — 📌 idea
-- `portfolio-balancer`: dynamic portfolio rebalancing tool with risk metrics — 🧪 prototype
-- `arb-hunter`: arbitrage scanner across centralized and decentralized exchanges — 🧪 prototype
-- `alpha-screener`: scans trading pairs for strategy alignment and ranks by signal strength — 📌 idea
-- `ml-signal-lab`: uses scikit-learn or XGBoost to train models on historical indicators — 🧪 prototype
-- `trade-simulator`: simulates trade execution and PnL tracking based on strategy signals — 📌 idea
-- `risk-analyzer`: calculates drawdown, Sharpe ratio, and volatility metrics — ✅ completed
-- `trade-journal`: personal trade journal app with tagging, notes, and performance tracking — 📌 idea
+- `alpha-engine`: signal generation engine using TA-Lib and pandas-ta
+- `backtest-lab`: lightweight backtesting framework for Python strategies
+- `trade-tuner`: strategy parameter optimizer using grid search and genetic algorithms
+- `metaquant`: strategy evaluator based on adaptability and market regime fit
+- `dex-sniper`: automated trading bot for decentralized exchanges (Uniswap, PancakeSwap)
+- `portfolio-balancer`: dynamic portfolio rebalancing tool with risk metrics
+- `arb-hunter`: arbitrage scanner across centralized and decentralized exchanges
+- `alpha-screener`: scans trading pairs for strategy alignment and ranks by signal strength
+- `ml-signal-lab`: uses scikit-learn or XGBoost to train models on historical indicators
+- `trade-simulator`: simulates trade execution and PnL tracking based on strategy signals
+- `risk-analyzer`: calculates drawdown, Sharpe ratio, and volatility metrics
+- `trade-journal`: personal trade journal app with tagging, notes, and performance tracking
 
 🤖 Bots & Automation
-- `crypto-signal-bot`: telegram alerts for live trading signals — 🟢 active
-- `bot-orchestrator`: manages multiple trading bots across exchanges with health checks — 🧪 prototype
-- `bot-scheduler`: task scheduler for running trading bots using apscheduler — ✅ completed
-- `telegram-manager`: admin bot for managing multiple Telegram channels and alerts — 🧪 prototype
-- `price-alert-bot`: sends alerts when price crosses key levels or indicators trigger thresholds — 🟢 active
-- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV — ✅ completed
-- `wallet-sync`: syncs wallet balances and token holdings across multiple chains — 📌 idea
-- `sentiment-signalizer`: combines Twitter/X sentiment with technical indicators — 🧪 prototype
-- `strategy-recommender`: CLI/web app that suggests strategies based on market conditions — 📌 idea
-- `bot-bazaar`: marketplace for trading bot templates and strategy modules — 📌 idea
+- `crypto-signal-bot`: telegram alerts for live trading signals
+- `bot-orchestrator`: manages multiple trading bots across exchanges with health checks
+- `bot-scheduler`: task scheduler for running trading bots using apscheduler
+- `telegram-manager`: admin bot for managing multiple Telegram channels and alerts
+- `price-alert-bot`: sends alerts when price crosses key levels or indicators trigger thresholds
+- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV
+- `wallet-sync`: syncs wallet balances and token holdings across multiple chains
+- `sentiment-signalizer`: combines Twitter/X sentiment with technical indicators
+- `strategy-recommender`: CLI/web app that suggests strategies based on market conditions
+- `bot-bazaar`: marketplace for trading bot templates and strategy modules
 
 🔗 Blockchain & DeFi
-- `defi-monitor`: smart contract event tracker for DeFi protocols — 🟢 active
-- `chainwatch`: on-chain analytics tool for Ethereum and EVM-compatible chains — 🧪 prototype
-- `oracle-bridg`e: Python interface for Chainlink and custom data feeds — 🧪 prototype
-- `vault-manager`: yield farming optimizer with strategy switching logic — 📌 idea
-- `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler — ✅ completed
-- `chain-metrics-collector`: collects on-chain metrics like TVL, gas, token flows — 🧪 prototype
-- `cross-chain-monitor`: monitors token transfers across Ethereum, BSC, Polygon — 📌 idea
-- `chain-events-viewer`: displays smart contract events in real time — 📌 idea
-- `nft-monitor`: tracks NFT floor prices and sales volume across marketplaces — 📌 idea
+- `defi-monitor`: smart contract event tracker for DeFi protocols
+- `chainwatch`: on-chain analytics tool for Ethereum and EVM-compatible chains
+- `oracle-bridg`e: Python interface for Chainlink and custom data feeds
+- `vault-manager`: yield farming optimizer with strategy switching logic
+- `gas-optimizer`: Ethereum gas fee estimator and transaction scheduler
+- `chain-metrics-collector`: collects on-chain metrics like TVL, gas, token flows
+- `cross-chain-monitor`: monitors token transfers across Ethereum, BSC, Polygon
+- `chain-events-viewer`: displays smart contract events in real time
+- `nft-monitor`: tracks NFT floor prices and sales volume across marketplaces
 
 📊 Visualization & Dashboards
-- `trading-dashboard`: interactive dashboard for live strategy monitoring (Plotly + Dash) — 🟢 active
-- `strategy-tester-ui`: Streamlit-based interface for uploading OHLCV data and testing strategies — ✅ completed
-- `gas-tracker-ui`: web dashboard for monitoring Ethereum gas prices — 📌 idea
-- `data-dock`: unified data lake for OHLCV, on-chain metrics, and sentiment feeds — 🧪 prototype
-- `streamflow`: real-time market data streamer using WebSockets and FastAPI — 🧪 prototype
-- `chaincanvas`: visualizes blockchain activity as generative art — 📌 idea
-- `StreamScope`: WebSocket-based market data visualizer with anomaly detection — 📌 idea
-- `AlphaBoard`: Ruby dashboard consuming Python APIs for strategy metrics — 📌 idea
+- `trading-dashboard`: interactive dashboard for live strategy monitoring (Plotly + Dash)
+- `strategy-tester-ui`: Streamlit-based interface for uploading OHLCV data and testing strategies
+- `gas-tracker-ui`: web dashboard for monitoring Ethereum gas prices
+- `data-dock`: unified data lake for OHLCV, on-chain metrics, and sentiment feeds
+- `streamflow`: real-time market data streamer using WebSockets and FastAPI
+- `chaincanvas`: visualizes blockchain activity as generative art
+- `StreamScope`: WebSocket-based market data visualizer with anomaly detection
+- `AlphaBoard`: Ruby dashboard consuming Python APIs for strategy metrics
 
 🌐 APIs & Integration
-- `api-aggregator`: combines data from Binance, KuCoin, Bybit into unified feed — ✅ completed
-- `quant-api-gateway`: FastAPI gateway exposing strategy signals and bot status — 🧪 prototype
-- `py-chainlink-bridge`: Python interface for Chainlink node management — 🧪 prototype
-- `multi-lang-bot-core`: Python bot framework with Go plug-ins for execution speed — 📌 idea
-- `py-devops-deployer`: deployment manager for bots and dashboards using Docker & Ansible — ✅ completed
+- `api-aggregator`: combines data from Binance, KuCoin, Bybit into unified feed
+- `quant-api-gateway`: FastAPI gateway exposing strategy signals and bot status
+- `py-chainlink-bridge`: Python interface for Chainlink node management
+- `multi-lang-bot-core`: Python bot framework with Go plug-ins for execution speed
+- `py-devops-deployer`: deployment manager for bots and dashboards using Docker & Ansible
 
 💼 Wallets & Monitoring
-- `wallet-analyzer`: tracks wallet performance and token flows — 🧪 prototype
-- `ruby-wallet-tracker`: Ruby CLI tool for wallet tracking via Python backend — 📌 idea
-- `LedgerLens`: Rails app for visualizing wallet activity and DeFi positions — 📌 idea
+- `wallet-analyzer`: tracks wallet performance and token flows
+- `ruby-wallet-tracker`: Ruby CLI tool for wallet tracking via Python backend
+- `LedgerLens`: Rails app for visualizing wallet activity and DeFi positions
 
 💎 Ruby-Based Projects
-- `ruby-defi-dashboard`: Rails frontend for Python-powered DeFi metrics — 📌 idea
-- `TradeWhisper`: Ruby bot sending curated signals to Telegram/Discord — 📌 idea
+- `ruby-defi-dashboard`: Rails frontend for Python-powered DeFi metrics
+- `TradeWhisper`: Ruby bot sending curated signals to Telegram/Discord
 
 ⚙️ Go-Based Projects
-- `GoTraderX`: high-speed trading bot core in Go with Python strategy plugins — 📌 idea
-- `BlockWatchGo`: Go service for monitoring blockchain events — 📌 idea
-- `GoFlow`: market data ingestion pipeline in Go streaming to Python — 📌 idea
-- `go-streamer`: real-time market data streamer in Go — 📌 idea
-- `go-risk-engine`: Go-based risk engine calculating exposure and VaR — 📌 idea
+- `GoTraderX`: high-speed trading bot core in Go with Python strategy plugins
+- `BlockWatchGo`: Go service for monitoring blockchain events
+- `GoFlow`: market data ingestion pipeline in Go streaming to Python
+- `go-streamer`: real-time market data streamer in Go
+- `go-risk-engine`: Go-based risk engine calculating exposure and VaR
 
 🧪 Mixed & Experimental
-- `SentimentSynth`: NLP + technical indicators for hybrid alpha signals — 📌 idea
-- `MetaQuant`: strategy meta-evaluator ranking adaptability and regime fit — 📌 idea
-- `QuantVerse`: modular universe of trading strategies with plug-and-play architecture — 🧪 prototype
-- `VaultPilot`: yield optimizer rotating between DeFi protocols — 📌 idea
-- `AlphaForge`: drag-and-drop strategy builder with backtesting engine — 📌 idea
-- `SignalSmith`: multi-indicator signal generator with logic trees — 📌 idea
+- `SentimentSynth`: NLP + technical indicators for hybrid alpha signals
+- `MetaQuant`: strategy meta-evaluator ranking adaptability and regime fit
+- `QuantVerse`: modular universe of trading strategies with plug-and-play architecture
+- `VaultPilot`: yield optimizer rotating between DeFi protocols
+- `AlphaForge`: drag-and-drop strategy builder with backtesting engine
+- `SignalSmith`: multi-indicator signal generator with logic trees
 
 ---
 
