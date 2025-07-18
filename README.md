@@ -60,7 +60,7 @@
 - `bot-scheduler`: task scheduler for running trading bots using apscheduler
 - `telegram-manager`: admin bot for managing multiple Telegram channels and alerts
 - `price-alert-bot`: sends alerts when price crosses key levels or indicators trigger thresholds
-- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV
+- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV — 🚀 active
 - `wallet-sync`: syncs wallet balances and token holdings across multiple chains
 - `sentiment-signalizer`: combines Twitter/X sentiment with technical indicators
 - `strategy-recommender`: CLI/web app that suggests strategies based on market conditions
