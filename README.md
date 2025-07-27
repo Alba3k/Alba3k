@@ -38,9 +38,9 @@
 
 ---
 
-## 🧪 Projects
+## 🧪 Projects, all projects, at various stages of completion.
 #### 📈 Trading & Quant Strategies
-- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.) — 🚀 active
+- `quant-strategies`: a collection of basic strategies (EMA+RSI, MACD+Stoch, BB+RSI, etc.)
 - `alpha-engine`: signal generation engine using TA-Lib and pandas-ta
 - `backtest-lab`: lightweight backtesting framework for Python strategies
 - `trade-tuner`: strategy parameter optimizer using grid search and genetic algorithms
@@ -60,7 +60,7 @@
 - `bot-scheduler`: task scheduler for running trading bots using apscheduler
 - `telegram-manager`: admin bot for managing multiple Telegram channels and alerts
 - `price-alert-bot`: sends alerts when price crosses key levels or indicators trigger thresholds
-- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV — 🚀 active
+- `signal-logger`: lightweight logging system for storing strategy signals in SQLite or CSV
 - `wallet-sync`: syncs wallet balances and token holdings across multiple chains
 - `sentiment-signalizer`: combines Twitter/X sentiment with technical indicators
 - `strategy-recommender`: CLI/web app that suggests strategies based on market conditions
